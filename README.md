@@ -1,5 +1,6 @@
 # RK_Portfolio
 
+- [Bike Usage Analysis](https://rosskeim.github.io/RK_Portfolio/cycle_trips.html)
 - Performance Tracker
 - A/R Metrics Tracking w/Ratings
 - Hypertrophy Program Planner
